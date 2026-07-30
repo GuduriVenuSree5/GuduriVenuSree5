@@ -114,7 +114,7 @@ MongoDB • Express.js • React.js • Node.js
 
 ---
 
-# 📊 GitHub Stats
+
 
 <!-- <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuduriVenuSree5&show_icons=true&theme=tokyonight&hide_border=true"/>
